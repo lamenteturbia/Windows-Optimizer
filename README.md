@@ -64,4 +64,6 @@ Open source – check the repository for details.
 
 ## Download / Repository
 
-🔗 [GitHub Repository](PUT-YOUR-GITHUB-LINK-HERE)
+🔗 [Download Optimizer.exe](https://github.com/lamenteturbia/Windows-Optimizer/raw/main/optimizer.exe)
+
+
